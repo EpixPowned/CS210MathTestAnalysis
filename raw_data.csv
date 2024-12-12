@@ -1,4 +1,4 @@
-Student ID;Student Country;Question ID;Type of Answer;Question Level;Topic;Subtopic;Keywords
+Student ID;Student Country;Question ID;Type_of_Answer;Question_Level;Topic;Subtopic;Keywords
 647;Ireland;77;0;Basic;Statistics;Statistics;Stem and Leaf diagram,Relative frequency,Sample,Frequency
 41;Portugal;77;1;Basic;Statistics;Statistics;Stem and Leaf diagram,Relative frequency,Sample,Frequency
 340;Portugal;77;1;Basic;Statistics;Statistics;Stem and Leaf diagram,Relative frequency,Sample,Frequency
